@@ -42,7 +42,7 @@ Nessa aplicação vamos utilizar banco de dados relacional (SQL). Para ambiente 
 
 ## Diagrama ERD
 
-![image](https://github.com/Dyl44n/Pass.in/assets/90419629/9091367d-ac5a-455c-8b1b-1692202fcb2b)
+![image](https://github.com/Dyl44n/Pass.in/assets/90419629/e42e6921-7713-40e4-bb5e-7e06956c9164)
 
 ## Estrutura do banco (SQL)
 
